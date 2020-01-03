@@ -8,7 +8,7 @@
   [my solution](https://codeforces.com/contest/1245/submission/68037961)
   
   
-  ### DAY 2
+  ### DAY 3
   
   #### Problems Solved
   
