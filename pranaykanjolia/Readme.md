@@ -68,6 +68,12 @@ Second Year CSE, MNIT Jaipur
    
    - [codeforces problem](https://codeforces.com/contest/1287/problem/A)::
    [my solution](https://codeforces.com/contest/1287/submission/68253125)
+   
+   ### DAY 6
+   
+  #### Problems Solved
+   - [codechef problem](https://www.codechef.com/JAN20B/problems/ISBIAS)
+   
   
   
 
