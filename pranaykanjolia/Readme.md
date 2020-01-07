@@ -74,6 +74,11 @@ Second Year CSE, MNIT Jaipur
   #### Problems Solved
    - [codechef problem](https://www.codechef.com/JAN20B/problems/ISBIAS)
    
+   ### DAY 7
+   
+   #### Problems solved
+   - [Dividing numbers](https://www.codechef.com/PLIN2020/problems/UKP1) :: [solution](https://www.codechef.com/viewsolution/28775747)
+   
   
   
 
