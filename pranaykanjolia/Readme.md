@@ -95,6 +95,9 @@ Second Year CSE, MNIT Jaipur
    
    - [codeforces problem](https://codeforces.com/contest/279/problem/B)::
     [solution](https://codeforces.com/contest/279/submission/68409937)
+    
+   - [codeforces problem](https://codeforces.com/problemset/problem/514/B) ::
+    [solution](https://codeforces.com/problemset/submission/514/68421181)
   
   
 
