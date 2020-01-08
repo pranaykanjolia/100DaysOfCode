@@ -84,17 +84,17 @@ Second Year CSE, MNIT Jaipur
 - [codeforces problem](https://codeforces.com/problemset/problem/467/B) :: 
 [solution](https://codeforces.com/contest/467/submission/68396269)
 
-- [codeforces problem] (https://codeforces.com/problemset/problem/451/B)::
- [solution] (https://codeforces.com/problemset/submission/451/68401159)
+- [codeforces problem](https://codeforces.com/problemset/problem/451/B)::
+ [solution](https://codeforces.com/problemset/submission/451/68401159)
  
- - [codeforces problem] (https://codeforces.com/problemset/problem/508/B) ::
-  [solution] (https://codeforces.com/problemset/submission/508/68402850)
+ - [codeforces problem](https://codeforces.com/problemset/problem/508/B) ::
+  [solution](https://codeforces.com/problemset/submission/508/68402850)
   
-  - [codeforces problem] (https://codeforces.com/problemset/problem/83/A) ::
-   [solution] (https://codeforces.com/problemset/submission/83/68403581)
+  - [codeforces problem](https://codeforces.com/problemset/problem/83/A) ::
+   [solution](https://codeforces.com/problemset/submission/83/68403581)
    
    - [codeforces problem](https://codeforces.com/contest/279/problem/B)::
-    [solution] (https://codeforces.com/contest/279/submission/68409937)
+    [solution](https://codeforces.com/contest/279/submission/68409937)
   
   
 
