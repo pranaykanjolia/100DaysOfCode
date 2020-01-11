@@ -98,9 +98,16 @@ Second Year CSE, MNIT Jaipur
     
    - [codeforces problem](https://codeforces.com/problemset/problem/514/B) ::
     [solution](https://codeforces.com/problemset/submission/514/68421181)
+    
+   
   
-  
+  ### DAY 10
+  ### Problems Solved
 
-
+- [codeforces problem](https://codeforces.com/contest/1285/problem/A)::
+ [solution](https://codeforces.com/contest/1285/submission/68502319)
+ 
+- [codeforces problem](https://codeforces.com/contest/1285/problem/B)::
+ [solution]((https://codeforces.com/contest/1285/problem/C))
 
      
