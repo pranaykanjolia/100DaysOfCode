@@ -109,5 +109,16 @@ Second Year CSE, MNIT Jaipur
  
 - [codeforces problem](https://codeforces.com/contest/1285/problem/B)::
  [solution](https://codeforces.com/contest/1285/submission/68532636)
+ 
+ ### DAY 11
+ - [codechef problem](https://www.codechef.com/JAN20B/problems/CHEFPSA)
+ 
+ ### DAY 12
+ ### Problems Solved
+ 
+ - [codechef problem](https://www.codechef.com/JAN20B/problems/BRKBKS)
+ - [codechef problem](https://www.codechef.com/JAN20B/problems/DYNAMO)
+ - [codechef problem](https://www.codechef.com/JAN20B/problems/CHFDORA)
+ - [codechef problem_partially](https://www.codechef.com/JAN20B/problems/ENGLISH)
 
      
