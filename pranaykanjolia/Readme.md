@@ -73,6 +73,7 @@ Second Year CSE, MNIT Jaipur
    
   #### Problems Solved
    - [codechef problem](https://www.codechef.com/JAN20B/problems/ISBIAS)
+   [solution](https://www.codechef.com/viewsolution/28736821)
    
    ### DAY 7
    
@@ -112,13 +113,33 @@ Second Year CSE, MNIT Jaipur
  
  ### DAY 11
  - [codechef problem](https://www.codechef.com/JAN20B/problems/CHEFPSA)
+ ::[solution](https://www.codechef.com/viewsolution/28954995)
  
  ### DAY 12
  ### Problems Solved
  
- - [codechef problem](https://www.codechef.com/JAN20B/problems/BRKBKS)
- - [codechef problem](https://www.codechef.com/JAN20B/problems/DYNAMO)
+ - [codechef problem](https://www.codechef.com/JAN20B/problems/BRKBKS)::
+ [solution](https://www.codechef.com/viewsolution/28948064)
+ - [codechef problem](https://www.codechef.com/JAN20B/problems/DYNAMO)::
+ [solution](https://www.codechef.com/viewsolution/28949487)
  - [codechef problem](https://www.codechef.com/JAN20B/problems/CHFDORA)
+ ::[solution](https://www.codechef.com/viewsolution/28949414)
  - [codechef problem_partially](https://www.codechef.com/JAN20B/problems/ENGLISH)
+ ::[solution](https://www.codechef.com/viewsolution/28963777)
+ 
+ ### DAY 15
+ ### Problems Solved
+ 
+ - [codeforces problem](https://codeforces.com/problemset/problem/987/C)
+ ::[solution](https://codeforces.com/contest/987/submission/68830498)
+ - [codeforces problem](https://codeforces.com/problemset/problem/1234/C)
+ ::[solution](https://codeforces.com/problemset/submission/1234/68867869)
+ - [codeforces problem](https://codeforces.com/problemset/problem/545/D)::
+ [solution](https://codeforces.com/problemset/submission/545/68876627)
+ - [codeforces problem](https://codeforces.com/problemset/problem/1197/C)::
+ [solution](https://codeforces.com/problemset/submission/1197/68877920)
+ 
+ 
+ 
 
      
