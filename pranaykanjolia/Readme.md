@@ -141,6 +141,14 @@ Second Year CSE, MNIT Jaipur
  - [codeforces problem](https://codeforces.com/problemset/problem/1189/C)::
  [solution](https://codeforces.com/problemset/submission/1189/68879920)
  
+ ### DAY 17
+ ### Problems Solved
+ - [codechef problem](https://www.codechef.com/problems/COUPON)::
+ [solution](https://www.codechef.com/viewsolution/29026596)
+ - [codechef problem](https://www.codechef.com/problems/SPIDY2)::
+ [solution](https://www.codechef.com/viewsolution/29029316)
+ 
+ 
  
  
 
