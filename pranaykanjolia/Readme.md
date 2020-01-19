@@ -148,6 +148,14 @@ Second Year CSE, MNIT Jaipur
  - [codechef problem](https://www.codechef.com/problems/SPIDY2)::
  [solution](https://www.codechef.com/viewsolution/29029316)
  
+
+### DAY 18
+### Problems Solved
+
+-[atcoder](https://atcoder.jp/contests/dp/tasks/dp_a)::[solution](https://atcoder.jp/contests/dp/submissions/9552039)
+-[atcoder](https://atcoder.jp/contests/dp/tasks/dp_b)::[solution](https://atcoder.jp/contests/dp/submissions/9552083)
+-[atcoder](https://atcoder.jp/contests/dp/tasks/dp_c)::[solution](https://atcoder.jp/contests/dp/submissions/9552150)
+-[atcoder](https://atcoder.jp/contests/dp/tasks/dp_d)::[solution](https://atcoder.jp/contests/dp/submissions/9557314)
  
  
  
