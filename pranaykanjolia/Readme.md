@@ -18,8 +18,6 @@ Second Year CSE, MNIT Jaipur
 #### Learing Goals
 
 - [ ] Learn C++ STL
-- [ ] Learn OpenCV
-- [ ] Learn Digital Image Processing
 ------------------------
 
 # Timeline
