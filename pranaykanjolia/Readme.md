@@ -154,6 +154,19 @@ Second Year CSE, MNIT Jaipur
 - [atcoder](https://atcoder.jp/contests/dp/tasks/dp_b)::[solution](https://atcoder.jp/contests/dp/submissions/9552083)
 - [atcoder](https://atcoder.jp/contests/dp/tasks/dp_c)::[solution](https://atcoder.jp/contests/dp/submissions/9552150)
 - [atcoder](https://atcoder.jp/contests/dp/tasks/dp_d)::[solution](https://atcoder.jp/contests/dp/submissions/9557314)
+
+### DAY 22
+### Problems Solved
+- [codeforces problem](https://codeforces.com/problemset/problem/520/B)::
+[solution](https://codeforces.com/contest/520/submission/69301304)
+- [codeforces problem](https://codeforces.com/contest/1294/problem/A)::
+[solution](https://codeforces.com/contest/1294/submission/69313858)
+- [codeforces problem](https://codeforces.com/contest/1294/problem/B)::
+[solution](https://codeforces.com/contest/1294/submission/69325717)
+- [codeforces problem](https://codeforces.com/contest/1294/problem/C)::
+[solution](https://codeforces.com/contest/1294/submission/69335974)
+
+
  
  
  
