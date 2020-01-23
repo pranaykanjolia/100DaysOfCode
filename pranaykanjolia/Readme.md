@@ -166,6 +166,13 @@ Second Year CSE, MNIT Jaipur
 - [codeforces problem](https://codeforces.com/contest/1294/problem/C)::
 [solution](https://codeforces.com/contest/1294/submission/69335974)
 
+### DAY 23
+### problems solved
+
+- [codeforces problem](https://codeforces.com/problemset/problem/217/A)
+::[solution](https://codeforces.com/contest/217/submission/69425204)
+
+
 
  
  
