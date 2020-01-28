@@ -175,18 +175,25 @@ Second Year CSE, MNIT Jaipur
 ### DAY 24
 ### Problems Solved
 
-- [codeforces problem](https://codeforces.com/gym/266827/problem/A)::[solution](https://codeforces.com/gym/266827/submission/69460508)
-- [codeforces problem](https://codeforces.com/gym/266827/problem/B)::[solution](https://codeforces.com/gym/266827/submission/69460934)
-- [codeforces problem](https://codeforces.com/gym/266827/problem/C)::[solution](https://codeforces.com/gym/266827/submission/69462317)
+- [codeforces problem](https://codeforces.com/contest/1293/problem/C)::[solution](https://codeforces.com/contest/1293/submission/69691999)
+- [codeforces problem](https://codeforces.com/contest/1236/problem/B)::[solution](https://codeforces.com/contest/1236/submission/69691976)
+- [codeforces problem](https://codeforces.com/contest/1201/problem/C)::[solution](https://codeforces.com/contest/1201/submission/69691953)
 
 ### DAY 27
 ### Problems Solved
 
 - [codeforces problem](https://codeforces.com/contest/1294/problem/D)::[solution](https://codeforces.com/contest/1294/submission/69636396)
 - [codeforces problem](https://codeforces.com/contest/1167/problem/C)::[solution](https://codeforces.com/contest/1167/submission/69623338)
-- [codeforces problem](https://codeforces.com/gym/266828/problem/A)::[solution](https://codeforces.com/gym/266828/submission/69638876)
-- [codeforces problem](https://codeforces.com/gym/266828/problem/B)::[solution](https://codeforces.com/gym/266828/submission/69639521)
+- [codeforces problem](https://codeforces.com/problemset/problem/1162/B)::[solution](https://codeforces.com/problemset/submission/1162/69685032)
+- [codeforces problem](https://codeforces.com/problemset/problem/1167/B)::[solution](https://codeforces.com/problemset/submission/1167/69685151)
 
+### DAY 28
+### Problems Solved
+
+- [codeforces problem](https://codeforces.com/contest/1005/problem/C)::[solution](https://codeforces.com/contest/1005/submission/69684120)
+- [codeforces problem](https://codeforces.com/contest/1004/problem/C)::[solution](https://codeforces.com/contest/1004/submission/69679711)
+- [codeforces problem](https://codeforces.com/contest/1141/problem/C)::[solution](https://codeforces.com/contest/1141/submission/69692295)
+- [codeforces problem](https://codeforces.com/problemset/problem/1004/B)::[solution](https://codeforces.com/problemset/submission/1004/69693201)
  
  
  
