@@ -9,7 +9,7 @@ Second Year CSE, MNIT Jaipur
 -----------------------------------------------------------
 #### Competitive Programming
  
-- [ ] Increases [codeforces](https://codeforces.com/profile/pranaykanjolia) rating to 1800
+- [ ] Increases [codeforces](https://codeforces.com/profile/pranaykanjolia) rating to 1500
 - [ ] Increases [codechef](https://www.codechef.com/users/pranay1006) rating to 2000
 - [ ] Practise Dynammic Programming,Tree and Graph Questions
 
@@ -196,6 +196,11 @@ Second Year CSE, MNIT Jaipur
 - [codeforces problem](https://codeforces.com/problemset/problem/1004/B)::[solution](https://codeforces.com/problemset/submission/1004/69693201)
  
  
- 
+ ### DAY 29
+### Problems Solved
+- [codeforces problem](https://codeforces.com/contest/1295/problem/A)::[solution](https://codeforces.com/contest/1295/submission/69748754)
 
-     
+### DAY 30
+### Problems Solved
+- [codeforces problem](https://codeforces.com/contest/1295/problem/B)::[solution](https://codeforces.com/contest/1295/submission/69816063)
+- [codeoforces problem](https://codeforces.com/contest/1295/problem/C)::[solution](https://codeforces.com/contest/1295/submission/69819440)
