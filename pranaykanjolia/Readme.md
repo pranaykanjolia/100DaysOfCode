@@ -188,3 +188,4 @@ Second Year CSE, MNIT Jaipur
 ### Problems Solved
 - [codeforces problem](https://codeforces.com/contest/1295/problem/B)::[solution](https://codeforces.com/contest/1295/submission/69816063)
 - [codeoforces problem](https://codeforces.com/contest/1295/problem/C)::[solution](https://codeforces.com/contest/1295/submission/69819440)
+- [codeoforces problem](https://codeforces.com/contest/747/problem/C)::[solution](https://codeforces.com/contest/747/submission/69866532)
