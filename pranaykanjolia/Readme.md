@@ -200,4 +200,4 @@ Second Year CSE, MNIT Jaipur
 ### DAY 32
 ### Problems Solved
 - [atcoder problem](https://atcoder.jp/contests/dp/tasks/dp_g)::[solution](https://atcoder.jp/contests/dp/submissions/9853209)
-- [SPOJ Problem](https://www.spoj.com/problems/BUGLIFE/)::[solution](https://ideone.com/bNicT0)
+- [SPOJ Problem](https://www.spoj.com/problems/BUGLIFE/)
