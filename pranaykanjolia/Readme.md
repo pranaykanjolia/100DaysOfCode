@@ -205,3 +205,10 @@ Second Year CSE, MNIT Jaipur
 ### DAY 33
 ### Problems Solved
 - [SPOJ problem](https://www.spoj.com/problems/PT07Z/)
+- [codeforces problem](https://codeforces.com/contest/1291/problem/A)::[solution](https://codeforces.com/contest/1291/submission/70041048)
+
+### DAY 34
+### Problems Solved
+
+- [codeforces problem](https://codeforces.com/contest/1272/problem/D)::[solution](https://codeforces.com/contest/1272/submission/70156128)
+- [codeforces problem](https://codeforces.com/contest/1291/problem/B)::[solution](https://codeforces.com/contest/1291/submission/70115125)
