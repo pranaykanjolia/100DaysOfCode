@@ -21,6 +21,7 @@ Second Year CSE, MNIT Jaipur
 ------------------------
 
 # Timeline
+### JANUARY
 
 ### DAY 1
 
@@ -196,29 +197,31 @@ Second Year CSE, MNIT Jaipur
 ### Problems Solved
 
 - [codeoforces problem](https://codeforces.com/contest/1263/problem/C)::[solution](https://codeforces.com/contest/1263/problem/C)
-
-### DAY 32
+### FEBRUARY
+### DAY 1
 ### Problems Solved
 - [atcoder problem](https://atcoder.jp/contests/dp/tasks/dp_g)::[solution](https://atcoder.jp/contests/dp/submissions/9853209)
 - [SPOJ Problem](https://www.spoj.com/problems/BUGLIFE/)
 
-### DAY 33
+### DAY 2
 ### Problems Solved
 - [SPOJ problem](https://www.spoj.com/problems/PT07Z/)
 - [codeforces problem](https://codeforces.com/contest/1291/problem/A)::[solution](https://codeforces.com/contest/1291/submission/70041048)
 
-### DAY 34
+### DAY 3
 ### Problems Solved
 
 - [codeforces problem](https://codeforces.com/contest/1272/problem/D)::[solution](https://codeforces.com/contest/1272/submission/70156128)
 - [codeforces problem](https://codeforces.com/contest/1291/problem/B)::[solution](https://codeforces.com/contest/1291/submission/70115125)
 - [codeforces problem](https://codeforces.com/contest/1180/problem/B)::[solution](https://codeforces.com/contest/1180/submission/70181120)
 
-### DAY 35
+### DAY 5
 ### Problems Solved
 - [codeforces problem](https://codeforces.com/contest/1296/problem/A)::[solution](https://codeforces.com/contest/1296/submission/70249342)
 - [codeforces problem](https://codeforces.com/contest/1296/problem/B)::[solution](https://codeforces.com/contest/1296/submission/70258474)
 - [codeforces problem](https://codeforces.com/contest/1296/problem/D)::[solution](https://codeforces.com/contest/1296/submission/70394696)
 
-### DAY 37
+### DAY 7
 ### Problems Solved
+- [codeforces problem](https://codeforces.com/contest/1195/problem/D1)::[solution](https://codeforces.com/contest/1195/submission/70547902)
+- [codeforces problem](https://codeforces.com/contest/1195/problem/D2)::[solution](https://codeforces.com/contest/1195/submission/70554665)
