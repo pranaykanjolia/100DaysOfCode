@@ -256,3 +256,12 @@ Second Year CSE, MNIT Jaipur
 - [Codeforces Problem](https://codeforces.com/contest/1304/problem/A)::[Solution](https://codeforces.com/contest/1304/submission/71129113)
 - [Codeforces Problem](https://codeforces.com/contest/1304/problem/B)::[Solution](https://codeforces.com/contest/1304/submission/71139429)
 - [Codeforces Problem](https://codeforces.com/contest/1304/problem/C)::[Solution](https://codeforces.com/contest/1304/submission/71177618)
+
+
+
+### DAY 17
+### Problems Solved
+
+- [codeforces problem](https://codeforces.com/contest/1307/problem/A) :: [solution](https://codeforces.com/contest/1307/submission/71294011)
+- [codeforces problem](https://codeforces.com/contest/1307/problem/B) :: [solution](https://codeforces.com/contest/1307/submission/71308903)
+- [codeforces problem](https://codeforces.com/contest/1307/problem/C) :: [solution](https://codeforces.com/contest/1307/submission/71360722)
