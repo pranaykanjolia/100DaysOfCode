@@ -283,6 +283,7 @@ Second Year CSE, MNIT Jaipur
 - [codeforces problem](https://codeforces.com/contest/1321/problem/B)::[solution](https://codeforces.com/contest/1321/submission/72745197)
 - [codeforces problem](https://codeforces.com/contest/1321/problem/C)::[solution](https://codeforces.com/contest/1321/submission/72746923)
 - [codeforces problem](https://codeforces.com/contest/580/problem/C)::[solution](https://codeforces.com/contest/580/submission/72754090)
+- [hackerrank problem](https://www.hackerrank.com/challenges/torque-and-development/problem)::[solution](https://www.hackerrank.com/challenges/torque-and-development/submissions/code/146493768)
 
 
 
