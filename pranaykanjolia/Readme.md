@@ -269,12 +269,19 @@ Second Year CSE, MNIT Jaipur
 
 ### MARCH
 
+
+### DAY 6
+### Problems Solved
+- [codechef problem](https://www.codechef.com/MARCH20B/problems/CHPINTU)::[solution](https://www.codechef.com/viewsolution/30090650)
+
+
 ### DAY 7
 ### Problems Solved
 
 - [codeforecs problem](https://codeforces.com/contest/1323/problem/A)::[solution](https://codeforces.com/contest/1323/submission/72678738)
 - [codeforecs problem](https://codeforces.com/contest/1323/problem/B)::[solution](https://codeforces.com/contest/1323/submission/72682243)
 - [codeforecs problem](https://codeforces.com/contest/1323/problem/C)::[solution](https://codeforces.com/contest/1323/submission/72683588)
+- [codechef problem](https://www.codechef.com/MARCH20B/problems/ENGXOR)::[solution](https://www.codechef.com/viewsolution/30093876)
 
 ### DAY 8
 ### Problems Solved
@@ -310,6 +317,20 @@ Second Year CSE, MNIT Jaipur
   - [codeforces problem](https://codeforces.com/contest/1324/problem/B)::[solution](https://codeforces.com/contest/1324/submission/73095793)
   - [codeforces problem](https://codeforces.com/contest/1324/problem/C)::[solution](https://codeforces.com/contest/1324/submission/73053216)
   - [codeforces problem](https://codeforces.com/contest/1324/problem/D)::[solution](https://codeforces.com/contest/1324/submission/73075286)
+  
+  
+  ### DAY 13
+  ### Problems Solved
+  
+  - [codeforces problem](https://codeforces.com/contest/1315/problem/A)::[solution](https://codeforces.com/contest/1315/submission/73157629)
+  - [codeforces problem](https://codeforces.com/contest/1315/problem/B)::[solution](https://codeforces.com/contest/1315/submission/73168285)
+  - [codeforces problem](https://codeforces.com/contest/1315/problem/C)::[solution](https://codeforces.com/contest/1315/submission/73164131)
+  
+  ### DAY 15
+  ### Problems Solved
+  
+  - [codechef problem](https://www.codechef.com/MARCH20B/problems/ADASHOP2)::[solution](https://www.codechef.com/viewsolution/30437314)
+  - [codeforces problem](https://codeforces.com/contest/550/problem/A)::[solution](https://codeforces.com/contest/550/submission/73332977)
   
 
 
