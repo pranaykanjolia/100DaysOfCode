@@ -333,4 +333,47 @@ Second Year CSE, MNIT Jaipur
   - [codeforces problem](https://codeforces.com/contest/550/problem/A)::[solution](https://codeforces.com/contest/550/submission/73332977)
   
 
-
+  ### DAY 16
+  ### Problems Solved
+  
+  - [codeforces problem](https://codeforces.com/contest/1325/problem/D)::[solution](https://codeforces.com/contest/1325/submission/73413093) 
+  - [codeforces problem](https://codeforces.com/contest/1325/problem/B)::[solution](https://codeforces.com/contest/1325/submission/73408045) 
+  - [codeforces problem](https://codeforces.com/contest/1325/problem/A)::[solution](https://codeforces.com/contest/1325/submission/73407682)
+  
+   ### DAY 17
+   ### Problems Solved
+   
+   - [codeforces problem](https://codeforces.com/contest/1325/problem/C)::[solution](https://codeforces.com/contest/1325/submission/73440960)
+   - [codeforces problem](https://codeforces.com/contest/1288/problem/C)::[solution](https://codeforces.com/contest/1288/submission/73520504)
+   
+   ### DAY 18
+   ### Problems Solved
+   
+   - [codeforces problem](https://codeforces.com/contest/1282/problem/B2)::[solution](https://codeforces.com/contest/1282/submission/73527050)
+   - [codeforces problem](https://codeforces.com/contest/1238/problem/C)::[solution](https://codeforces.com/contest/1238/submission/73537477)
+   - [codeforces problem](https://codeforces.com/contest/1313/problem/A)::[solution](https://codeforces.com/contest/1313/submission/73544837)
+   - [codeforces problem](https://codeforces.com/contest/1313/problem/B)::[solution](https://codeforces.com/contest/1313/submission/73551543)
+   - [codeforces problem](https://codeforces.com/contest/1213/problem/A)::[solution](https://codeforces.com/contest/1213/submission/73602324)
+   - [codeforces problem](https://codeforces.com/contest/1213/problem/B)::[solution](https://codeforces.com/contest/1213/submission/73603071)
+   - [codeforces problem](https://codeforces.com/contest/1213/problem/C)::[solution](https://codeforces.com/contest/1213/submission/73603503)
+   
+   ### DAY 19
+   ### Problems Solved
+   
+   - [codeforces problem](https://codeforces.com/contest/1326/problem/B)::[solution](https://codeforces.com/contest/1326/submission/73687712)
+   - [codeforces problem](https://codeforces.com/contest/1326/problem/D1)::[solution](https://codeforces.com/contest/1326/submission/73740871)
+   
+   ### DAY 20
+   ### Problems Solved
+   
+   - [codeforces problem](https://codeforces.com/contest/1326/problem/A)::[solution](https://codeforces.com/contest/1326/submission/73742535)
+   - [codeforces problem](https://codeforces.com/contest/1326/problem/C)::[solution](https://codeforces.com/contest/1326/submission/73742707)
+   - [codeforces problem](https://codeforces.com/contest/1326/problem/D2)::[solution](https://codeforces.com/contest/1326/submission/73807969)
+   
+   ### DAY 21
+   ### Problems Solved
+   
+   
+   
+   
+   
